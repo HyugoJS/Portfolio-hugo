@@ -39,21 +39,19 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+							Ce que j'ai créé en essayant de laisser ma marque
+							dans le monde du développement.
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+							Au cours de mes premières expériences, j'ai eu
+							l'opportunité de travailler sur divers projets, et
+							je suis fier des progrès que j'ai réalisés.
+							Plusieurs de ces projets sont en open source,
+							n'hésitez pas à les explorer et à y contribuer !
+							Étant junior, la collaboration est essentielle pour
+							mon apprentissage. Vos suggestions d'améliorations
+							et vos idées sont les bienvenues.
 						</div>
 
 						<div className="projects-list">
