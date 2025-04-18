@@ -53,7 +53,7 @@ const Contact = () => {
 								{INFO.main.email}
 							</a>
 							. Je m'engage a vous répondre le plus rapidement
-							possible.
+							possible !
 						</div>
 					</div>
 
